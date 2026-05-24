@@ -1,0 +1,10 @@
+streamlit
+openai
+python-dotenv
+pypdf
+faiss-cpu
+numpy
+sentence-transformers
+transformers
+torch
+huggingface_hub
